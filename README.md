@@ -1,0 +1,2 @@
+# A-Framework-for-Multimodal-AI-Bias-Detection-and-Mitigation-through-Federated-Learning
+This project focuses on detecting and reducing bias in AI systems used in areas like hiring, finance, and decision-making. It applies federated learning, where models are trained across multiple sources without sharing raw data, and uses multimodal inputs such as text and numerical data to evaluate fairness and improve responsible AI outcomes.
